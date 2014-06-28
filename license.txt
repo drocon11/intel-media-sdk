@@ -1,0 +1,74 @@
+The following materials are defined as "Licensed Binaries" and are subject
+to the terms and conditions of the End User License Agreement
+
+<InstallationFolder>\bin\win32\libmfxsw32.dll
+
+<InstallationFolder>\bin\x64\libmfxsw64.dll
+
+<InstallationFolder>\lib\win32\libmfx.lib
+
+<InstallationFolder>\lib\x64\libmfx.lib
+
+
+The following materials are defined as "Developer Tools" and are subject
+to the terms and conditions of the End User License Agreement
+
+<InstallationFolder>\bin\win32\h264_dec_filter.dll
+<InstallationFolder>\bin\win32\h264_enc_filter.dll
+<InstallationFolder>\bin\win32\imc_aac_dec_ds.dll
+<InstallationFolder>\bin\win32\imc_aac_enc_ds.dll
+<InstallationFolder>\bin\win32\imc_mp2_mux_ds.dll
+<InstallationFolder>\bin\win32\imc_mp2_spl_ds.dll
+<InstallationFolder>\bin\win32\imc_mp4_mux_ds.dll
+<InstallationFolder>\bin\win32\imc_mp4_spl_ds.dll
+<InstallationFolder>\bin\win32\imc_mpa_dec_ds.dll
+<InstallationFolder>\bin\win32\imc_mpa_enc_ds.dll
+<InstallationFolder>\bin\win32\mpeg2_dec_filter.dll
+<InstallationFolder>\bin\win32\mpeg2_enc_filter.dll
+<InstallationFolder>\bin\win32\sample_decode.exe
+<InstallationFolder>\bin\win32\sample_dshow.exe
+<InstallationFolder>\bin\win32\sample_encode.exe
+<InstallationFolder>\bin\win32\sample_multi_transcode.exe
+<InstallationFolder>\bin\win32\sample_vpp.exe
+<InstallationFolder>\bin\win32\vc1_dec_filter.dll
+
+<InstallationFolder>\bin\x64\h264_dec_filter.dll
+<InstallationFolder>\bin\x64\h264_enc_filter.dll
+<InstallationFolder>\bin\x64\imc_aac_dec_ds.dll
+<InstallationFolder>\bin\x64\imc_aac_enc_ds.dll
+<InstallationFolder>\bin\x64\imc_mp2_mux_ds.dll
+<InstallationFolder>\bin\x64\imc_mp2_spl_ds.dll
+<InstallationFolder>\bin\x64\imc_mp4_mux_ds.dll
+<InstallationFolder>\bin\x64\imc_mp4_spl_ds.dll
+<InstallationFolder>\bin\x64\imc_mpa_dec_ds.dll
+<InstallationFolder>\bin\x64\imc_mpa_enc_ds.dll
+<InstallationFolder>\bin\x64\mpeg2_dec_filter.dll
+<InstallationFolder>\bin\x64\mpeg2_enc_filter.dll
+<InstallationFolder>\bin\x64\sample_decode.exe
+<InstallationFolder>\bin\x64\sample_dshow.exe
+<InstallationFolder>\bin\x64\sample_encode.exe
+<InstallationFolder>\bin\x64\sample_multi_transcode.exe
+<InstallationFolder>\bin\x64\sample_vpp.exe
+<InstallationFolder>\bin\x64\vc1_dec_filter.dll
+
+<InstallationFolder>\doc\MediaSDK Filters Specifications.pdf
+<InstallationFolder>\doc\MediaSDK Sample Guide.rtf
+<InstallationFolder>\doc\mediasdk-distrib.rtf
+<InstallationFolder>\doc\mediasdk-man.pdf
+<InstallationFolder>\doc\mediasdkusr-man.pdf
+
+<InstallationFolder>\include\mfxdefs.h
+<InstallationFolder>\include\mfxplugin.h
+<InstallationFolder>\include\mfxstructures.h
+<InstallationFolder>\include\mfxvideo.h
+<InstallationFolder>\include\mfxvideo++.h
+
+<InstallationFolder>\samples\[*.rtf, *.doc, *.pdf]
+This includes any documentation files named *.rtf, *.doc or *.pdf under the "<InstallationFolder>\samples" folder
+
+
+The following materials are defined as "Sample Source" and are subject
+to the terms and conditions of the End User License Agreement
+
+<InstallationFolder>\samples\* (excluding readme files [*.rtf, *.doc, *.pdf])
+This excludes any documentation files named *.rtf, *.doc or *.pdf under the "<InstallationFolder>\samples" folder
