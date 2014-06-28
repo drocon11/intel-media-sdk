@@ -1,0 +1,57 @@
+The following materials are defined as "Licensed Binaries" and are subject
+to the terms and conditions of the End User License Agreement:
+
+<UnpackFolder>/MSDK/<version>/l_MSDK/bin/x64/libmfxhw64-p.so.*
+
+<UnpackFolder>/MSDK/<version>/l_MSDK/lib/lin_x64/libmfx.a
+
+<UnpackFolder>/kmd/binary/*
+
+<UnpackFolder>/usr/lib/*
+
+
+
+The following materials are defined as "Developer Tools" and are subject
+to the terms and conditions of the End User License Agreement:
+
+<UnpackFolder>/MSDK/<version>/l_MSDK/builder/*.*
+This includes any files under the "<UnpackFolder>/MSDK/<version>/l_MSDK/builder" folder
+
+<UnpackFolder>/MSDK/<version>/l_MSDK/doc/*.*
+This includes any files under the "<UnpackFolder>/MSDK/<version>/l_MSDK/doc" folder
+
+<UnpackFolder>/MSDK/<version>/l_MSDK/samples/[*.pdf, *.txt, *.pl]
+This includes any documentation files named *.pdf and any build system files named *.txt or *.pl under the "<UnpackFolder>/MSDK/<version>/l_MSDK/samples" folder
+
+<UnpackFolder>/MSDK/<version>/l_MSDK/samples/_bin/x64/*.*
+This includes any binary files under the "<UnpackFolder>/MSDK/<version>/l_MSDK/samples/_bin/x64" folder
+
+<UnpackFolder>/MSDK/<version>/l_MSDK/opensource/[*.pdf, *.txt]
+This includes any documentation files named *.pdf and any build system files named *txt under the "<UnpackFolder>/MSDK/<version>/l_MSDK/opensource" folder
+
+<UnpackFolder>/[*.pdf, *.txt, *.sh]
+This includes any documentation files named *.pdf or *.txt and any installation scipts named *.sh under the "<UnpackFolder>/" folder
+
+<UnpackFolder>/usr/bin/*
+
+
+
+The following materials are defined as "Sample Source" and are subject
+to the terms and conditions of the End User License Agreement:
+
+<UnpackFolder>/MSDK/<version>/l_MSDK/samples/* (excluding readme files *.pdf, build system files *.txt and *.pl and binary files under the <UnpackFolder>/MSDK/<version>/l_MSDK/samples/_bin/x64 folder)
+This excludes any documentation files named *.pdf, any build system files *txt or *.pl and any binary files under the "<UnpackFolder>/MSDK/<version>/l_MSDK/samples" folder
+
+
+
+The following materials are defined as "Open Source" and are subject to the terms and conditions in the files:
+
+<UnpackFolder>/MSDK/<version>/l_MSDK/include/*.*
+
+<UnpackFolder>/MSDK/<version>/l_MSDK/opensource/* (excluding readme files *.pdf and build system files *.txt)
+This excludes any documentation files named *.pdf and any build system files *.txt under the "<UnpackFolder>/MSDK/<version>/l_MSDK/opensource" folder
+
+<UnpackFolder>/kmd/source/*
+
+<UnpackFolder>/usr/include/*
+
