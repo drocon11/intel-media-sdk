@@ -1,0 +1,49 @@
+The following materials are defined as "Licensed Binaries" and are subject
+to the terms and conditions of the End User License Agreement
+
+<InstallationFolder>\bin\win32\libmfxsw32.dll
+<InstallationFolder>\bin\x64\libmfxsw64.dll
+<InstallationFolder>\lib\win32\libmfx.lib
+<InstallationFolder>\lib\x64\libmfx.lib
+<InstallationFolder>\igfx_s3dcontrol\lib\win32\igfx_s3dcontrol.lib
+<InstallationFolder>\igfx_s3dcontrol\lib\x64\igfx_s3dcontrol.lib
+
+
+
+The following materials are defined as "Developer Tools" and are subject
+to the terms and conditions of the End User License Agreement
+
+<InstallationFolder>\igfx_s3dcontrol\include\igfx_s3dcontrol.h
+<InstallationFolder>\*.pdf
+
+<InstallationFolder>\opensource\[*.rtf, *.doc, *.pdf]
+This includes any documentation files named *.rtf, *.doc or *.pdf under the "<InstallationFolder>\opensource" folder
+
+<InstallationFolder>\tools\mediasdk_tracer\tracer_core32.dll
+<InstallationFolder>\tools\mediasdk_tracer\tracer_core64.dll
+<InstallationFolder>\tools\mediasdk_tracer\tracer.exe
+<InstallationFolder>\tools\mediasdk_tracer\readme-mediasdk-tracer.rtf
+
+<InstallationFolder>\tools\mediasdk_sys_analyzer\win32\sys_analyzer.exe
+<InstallationFolder>\tools\mediasdk_sys_analyzer\x64\sys_analyzer.exe
+<InstallationFolder>\tools\mediasdk_sys_analyzer\readme-mediasdk-system-analyzer.rtf
+
+
+
+The following materials are defined as "Open Source" and are subject to the terms and conditions in the files:
+<InstallationFolder>\include\mfxastructures.h
+<InstallationFolder>\include\mfxaudio.h
+<InstallationFolder>\include\mfxaudio++.h
+<InstallationFolder>\include\mfxcommon.h
+<InstallationFolder>\include\mfxdefs.h
+<InstallationFolder>\include\mfxjpeg.h
+<InstallationFolder>\include\mfxmvc.h
+<InstallationFolder>\include\mfxplugin.h
+<InstallationFolder>\include\mfxplugin++.h
+<InstallationFolder>\include\mfxsession.h
+<InstallationFolder>\include\mfxstructures.h
+<InstallationFolder>\include\mfxvideo.h
+<InstallationFolder>\include\mfxvideo++.h
+<InstallationFolder>\include\mfxvsturctures.h
+<InstallationFolder>\opensource\*.* (excluding readme files [*.rtf, *.doc, *.pdf]
+This excludes any documentation files named *.rtf, *.doc or *.pdf under the "<InstallationFolder>\opensource" folder
